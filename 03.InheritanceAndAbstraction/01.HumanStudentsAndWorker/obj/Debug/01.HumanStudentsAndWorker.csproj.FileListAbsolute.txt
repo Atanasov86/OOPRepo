@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\OOP\03.InheritanceAndAbstraction\01.HumanStudentsAndWorker\bin\Debug\01.HumanStudentsAndWorker.exe.config
+C:\Users\Anton\Desktop\OOP\03.InheritanceAndAbstraction\01.HumanStudentsAndWorker\obj\Debug\01.HumanStudentsAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\OOP\03.InheritanceAndAbstraction\01.HumanStudentsAndWorker\bin\Debug\01.HumanStudentsAndWorker.exe
+C:\Users\Anton\Desktop\OOP\03.InheritanceAndAbstraction\01.HumanStudentsAndWorker\bin\Debug\01.HumanStudentsAndWorker.pdb
+C:\Users\Anton\Desktop\OOP\03.InheritanceAndAbstraction\01.HumanStudentsAndWorker\obj\Debug\01.HumanStudentsAndWorker.exe
+C:\Users\Anton\Desktop\OOP\03.InheritanceAndAbstraction\01.HumanStudentsAndWorker\obj\Debug\01.HumanStudentsAndWorker.pdb
