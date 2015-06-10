@@ -1,0 +1,10 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\01.Point3D.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\01.Point3D.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe.CodeAnalysisLog.xml
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe.lastcodeanalysissucceeded

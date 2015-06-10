@@ -1,0 +1,10 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\01.Point3D.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\01.Point3D.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.CodeAnalysisLog.xml
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.lastcodeanalysissucceeded

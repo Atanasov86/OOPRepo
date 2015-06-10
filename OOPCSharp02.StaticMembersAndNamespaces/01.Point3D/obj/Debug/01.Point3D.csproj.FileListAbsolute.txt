@@ -1,0 +1,7 @@
+c:\users\anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Point3D.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Point3D.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Point3D.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\obj\Debug\01.Point3D.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Point3D.exe.CodeAnalysisLog.xml
+C:\Users\Anton\documents\visual studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\01.Point3D\bin\Debug\01.Point3D.exe.lastcodeanalysissucceeded

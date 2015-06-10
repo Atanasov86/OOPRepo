@@ -1,0 +1,1 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\OOPCSharp02.StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.exe.config
